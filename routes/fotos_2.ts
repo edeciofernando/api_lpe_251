@@ -1,4 +1,4 @@
-import { Combustiveis, PrismaClient } from '@prisma/client'
+import { PrismaClient } from '@prisma/client'
 import { Router } from 'express'
 import { z } from 'zod'
 import multer from 'multer'
